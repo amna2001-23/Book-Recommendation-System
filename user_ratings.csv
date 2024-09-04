@@ -1,0 +1,212 @@
+book_title,user_id,rating
+Fundamentals of Wavelets,1,5
+Data Smart,1,4
+God Created the Integers,1,5
+Superfreakonomics,1,4
+Orientalism,1,3
+"Nature of Statistical Learning Theory, The",1,5
+Integration of the Indian States,1,3
+"Drunkard's Walk, The",1,5
+Image Processing & Mathematical Morphology,1,4
+How to Think Like Sherlock Holmes,1,2
+Data Scientists at Work,1,5
+Slaughterhouse Five,1,4
+Birth of a Theorem,1,3
+Structure & Interpretation of Computer Programs,1,4
+"Age of Wrath, The",1,5
+"Trial, The",1,5
+Statistical Decision Theory',1,5
+Data Mining Handbook,1,5
+"New Machiavelli, The",1,5
+Physics & Philosophy,1,5
+Making Software,1,4
+"Analysis, Vol I",1,4
+Machine Learning for Hackers,1,4
+"Signal and the Noise, The",1,4
+Python for Data Analysis,1,4
+Introduction to Algorithms,1,4
+"Beautiful and the Damned, The",1,4
+"Outsider, The",2,4
+"Complete Sherlock Holmes, The - Vol I",2,3
+"Complete Sherlock Holmes, The - Vol II",2,3
+"Wealth of Nations, The",2,3
+"Pillars of the Earth, The",2,3
+Mein Kampf,2,3
+"Tao of Physics, The",2,3
+Surely You're Joking Mr Feynman,2,3
+"Farewell to Arms, A",2,5
+"Veteran, The",2,5
+False Impressions,2,5
+"Last Lecture, The",2,5
+Return of the Primitive,2,5
+Jurassic Park,2,5
+"Russian Journal, A",2,5
+Tales of Mystery and Imagination,2,5
+Freakonomics,2,5
+"Hidden Connections, The",2,5
+"Story of Philosophy, The",2,5
+Asami Asami,2,5
+Journal of a Novel,2,5
+Once There Was a War,2,4
+"Moon is Down, The",2,4
+"Brethren, The",2,4
+In a Free State,2,4
+Catch 22,2,4
+"Complete Mastermind, The",2,4
+Dylan on Dylan,2,4
+Soft Computing & Intelligent Systems,2,4
+Textbook of Economic Theory,3,4
+Econometric Analysis,3,4
+Learning OpenCV,3,4
+Data Structures Using C & C++,3,4
+"Computer Vision, A Modern Approach",3,4
+Principles of Communication Systems,3,3
+Let Us C,3,5
+"Amulet of Samarkand, The",3,2
+Crime and Punishment,3,4
+Angels & Demons,3,5
+"Argumentative Indian, The",3,5
+Sea of Poppies,3,5
+"Idea of Justice, The",3,5
+"Raisin in the Sun, A",3,5
+All the President's Men,3,5
+"Prisoner of Birth, A",3,5
+Scoop!,3,5
+Ahe Manohar Tari,3,5
+"Last Mughal, The",3,5
+"Social Choice & Welfare, Vol 39 No. 1",3,5
+Radiowaril Bhashane & Shrutika,3,4
+Gun Gayin Awadi,3,4
+Aghal Paghal,3,4
+Maqta-e-Ghalib,3,4
+Beyond Degrees,3,4
+Manasa,3,4
+India from Midnight to Milennium,3,4
+"World's Greatest Trials, The",3,4
+"Great Indian Novel, The",4,4
+O Jerusalem!,4,4
+"City of Joy, The",4,4
+Freedom at Midnight,4,4
+"Winter of Our Discontent, The",4,4
+On Education,4,4
+Free Will,4,4
+Bookless in Baghdad,4,4
+"Case of the Lame Canary, The",4,4
+"Theory of Everything, The",4,5
+New Markets & Other Essays,4,5
+Electric Universe,4,5
+"Hunchback of Notre Dame, The",4,5
+Burning Bright,4,5
+"Age of Discontuinity, The",4,5
+Doctor in the Nude,4,5
+Down and Out in Paris & London,4,5
+Identity & Violence,4,5
+Beyond the Three Seas,4,5
+"World's Greatest Short Stories, The",4,5
+Talking Straight,4,5
+"Maugham's Collected Short Stories, Vol 3",4,5
+"Phantom of Manhattan, The",4,5
+Ashenden of The British Agent,4,5
+Zen & The Art of Motorcycle Maintenance,5,5
+"Great War for Civilization, The",5,5
+We the Living,5,5
+"Artist and the Mathematician, The",5,5
+History of Western Philosophy,5,5
+Selected Short Stories,5,5
+Rationality & Freedom,5,3
+Clash of Civilizations and Remaking of the World Order,5,3
+Uncommon Wisdom,5,3
+One,5,3
+Karl Marx Biography,5,3
+To Sir With Love,5,3
+Half A Life,5,3
+"Discovery of India, The",5,3
+Apulki,5,3
+Unpopular Essays,5,4
+"Deceiver, The",6,4
+Veil: Secret Wars of the CIA,6,4
+Char Shabda,6,4
+Rosy is My Relative,6,4
+"Moon and Sixpence, The",6,4
+Political Philosophers,6,4
+"Short History of the World, A",6,4
+"Trembling of a Leaf, The",6,4
+Doctor on the Brain,6,4
+Simpsons & Their Mathematical Secrets,6,4
+Pattern Classification,6,4
+From Beirut to Jerusalem,7,4
+"Code Book, The",7,5
+"Age of the Warrior, The",7,5
+Final Crisis,7,5
+"Killing Joke, The",7,5
+Flashpoint,7,5
+Batman Earth One,7,5
+Crisis on Infinite Earths,7,5
+"Numbers Behind Numb3rs, The",8,5
+Superman Earth One - 1,8,5
+Superman Earth One - 2,8,5
+Justice League: Throne of Atlantis,8,5
+Justice League: The Villain's Journey,8,5
+"Death of Superman, The",8,5
+History of the DC Universe,8,5
+Batman: The Long Halloween,8,5
+"Life in Letters, A",8,3
+"Information, The",8,3
+"Journal of Economics, vol 106 No 3",8,3
+Elements of Information Theory,8,3
+Power Electronics - Rashid,8,3
+Power Electronics - Mohan,8,3
+Neural Networks,8,3
+"Grapes of Wrath, The",8,3
+Vyakti ani Valli,9,3
+Statistical Learning Theory,9,3
+Empire of the Mughal - The Tainted Throne,9,3
+Empire of the Mughal - Brothers at War,9,3
+Empire of the Mughal - Ruler of the World,9,3
+Empire of the Mughal - The Serpent's Tooth,9,3
+Empire of the Mughal - Raiders from the North,9,3
+Mossad,9,3
+Jim Corbett Omnibus,9,3
+20000 Leagues Under the Sea,9,3
+Batatyachi Chal,9,3
+Hafasavnuk,9,
+Urlasurla,9,
+Pointers in C,9,
+"Cathedral and the Bazaar, The",9,
+Design with OpAmps,9,
+Think Complexity,9,
+"Devil's Advocate, The",9,
+Ayn Rand Answers,9,
+Philosophy: Who Needs It,9,
+"World's Great Thinkers, The",9,
+Data Analysis with Open Source Tools,9,
+Broca's Brain,9,
+Men of Mathematics,9,
+Oxford book of Modern Science Writing,9,
+"Justice, Judiciary and Democracy",9,
+"Arthashastra, The",9,
+We the People,9,
+We the Nation,9,
+"Courtroom Genius, The",9,
+Dongri to Dubai,9,
+"History of England, Foundation",9,
+City of Djinns,10,
+India's Legal System,10,
+More Tears to Cry,10,
+"Ropemaker, The",10,
+Angels & Demons,10,
+"Judge, The",10,
+"Attorney, The",10,
+"Prince, The",10,
+Eyeless in Gaza,10,
+Tales of Beedle the Bard,10,
+Girl with the Dragon Tattoo,10,
+Girl who kicked the Hornet's Nest,10,
+Girl who played with Fire,10,
+Batman Handbook,10,
+Murphy's Law,10,
+Structure and Randomness,10,
+Image Processing with MATLAB,10,
+Animal Farm,10,
+"Idiot, The",10,
+"Christmas Carol, A",10,
