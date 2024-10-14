@@ -1,5 +1,18 @@
-streamlit==1.15.0
-scikit-learn==1.2.2  # or the latest version that is compatible
-Cython>=0.29.30
-pandas
-numpy
+# Core dependencies for Streamlit
+streamlit>=1.15.0  # You can use a newer version if available
+
+# Essential libraries for data manipulation and machine learning
+pandas>=1.5.3  # Adjust as necessary
+numpy>=1.24.0  # Adjust as necessary
+scikit-learn>=1.2.2  # You can try a different version like 1.2.0 if issues persist
+
+# For using Cython to speed up computations
+Cython>=0.29.36  # Ensure compatibility with your setup
+
+# Additional libraries you may need
+matplotlib>=3.6.2
+seaborn>=0.12.2
+
+# If you plan to use OpenCV or other libraries
+opencv-python>=4.7.0.68  # If applicable
+beautifulsoup4>=4.12.2  # If applicable
