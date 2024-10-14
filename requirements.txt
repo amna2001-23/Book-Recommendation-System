@@ -1,4 +1,5 @@
-streamlit==1.17.0
-pandas==2.0.3
-scikit-learn==1.2.2
-requests==2.31.0
+streamlit==1.15.0
+scikit-learn==1.2.2  # or the latest version that is compatible
+Cython>=0.29.30
+pandas
+numpy
